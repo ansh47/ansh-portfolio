@@ -1,31 +1,31 @@
 {
   "basic_info": {
-    "name": "Davina Griss",
+    "name": "Ankit Shrivastava",
     "titles": [
-      "Front-end Developer",
-      "Senior Data Engineer",
-      "Dev Team lead",
-      "Mobile App Developer"
+      "Front-end Engineer",
+      "Backend Engineer",
+      "Mobile App Engineer",
+      "Fullstack Developer"
     ],
     "socials": [
       {
         "icon": "mdi:linkedin",
-        "url": "https://www.linkedin.com/in/devmahmud"
+        "url": "https://www.linkedin.com/in/ansh47"
       },
       {
         "icon": "mdi:github",
-        "url": "https://github.com/devmahmud"
+        "url": "https://github.com/ansh47"
       },
       {
         "icon": "mdi:twitter",
-        "url": "https://twitter.com/expeliermers"
+        "url": "https://x.com/_ansh47"
       }
     ]
   },
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "content": " 👋 I'm Ankit Shrivastava. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
     "image": "myProfile.jpg",
     "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
   },
